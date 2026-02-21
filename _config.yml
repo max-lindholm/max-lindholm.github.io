@@ -1,4 +1,3 @@
 title: "Notes as time passes"
 description: "Max Lindholm blog"
-theme: architect
-
+remote_theme: pages-themes/architect@v0.2.0
